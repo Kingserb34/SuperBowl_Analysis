@@ -11,7 +11,7 @@
 
 ## 📂 Files
 - `superbowl_analysis.sql` → Contains all SQL queries.
-- `superbowl.csv` → Dataset.
+- `superbowl.sql` → Dataset.
 
 ## 🔧 SQL Queries Example
 
