@@ -20,10 +20,10 @@ FROM super_bowl
 GROUP BY winning_team
 ORDER BY total_wins DESC;
 
-📊 Key Insights
+## 📊 Key Insights
   - Patriots & Steelers lead with 6 Super Bowl Wins.
   - Tom Brady has the most Super Bowl MVPs (4 times).
   - The average point differential is ~ 14 points.
 
-📬 Connect
+## 📬 Connect
   - GitHub: Kingserb34
